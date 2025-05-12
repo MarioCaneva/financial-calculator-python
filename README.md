@@ -27,7 +27,6 @@ This Python-based financial calculator provides several tools for performing key
 
 This is a console-based application. To run:
 
-```bash
 python financial_calculator.py
 You will be presented with a menu to choose which calculation to perform.
 
